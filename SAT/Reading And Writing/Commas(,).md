@@ -18,7 +18,7 @@ tags:
 	**Dependent clause:** "Although it was raining" (cannot stand alone)
 	**Independent clause:** "we decided to go for a walk" (can stand alone)
 
-### Link Independent clauses with coordinating conjunction
+### Link Independent clauses with coordinating conjunction(Fanboys)
 -> **I wanted to go for a walk, but it started to rain.**
 	**Independent clause 1:** "I wanted to go for a walk" (can stand alone)
 	**Independent clause 2:** "it started to rain" (can stand alone)
