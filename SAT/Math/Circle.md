@@ -12,5 +12,5 @@ $A_arc = a\circ*\frac{\angle AOC}{360}$
 ### Radians
 To convert for normal degrees to radiant multipli $\angle \theta$ by $\frac{\pi}{180\degree}$
 
-### Equsion & Graph
-[[Circle equation  ]]
+### Equation & Graph
+![![SAT/Math/Circle equation  .md]]
