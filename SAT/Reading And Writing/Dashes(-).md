@@ -11,9 +11,6 @@ They should be used only to separate non essential elements from teh rest of the
 
 ### Examples of Dashes
 
-**1. Beginning of a Sentence:** 
-- <span style="background:#affad1">Beach days are the best—</span>I can't wait for summer
-
 **2. Middle of a Sentence:**  
 - She loves hiking<span style="background:#affad1">—the great outdoors is her favorite place—</span>especially in the summer.
 - 
