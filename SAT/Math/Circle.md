@@ -10,7 +10,7 @@ $L_arc = (2\pi*r)(\frac{\angle AOC}{360})$
 $A_arc = a\circ*\frac{\angle AOC}{360}$
 
 ### Radians
-To convert for normal degrees to radiant multipli $\angle \theta$ by $\frac{\pi}{180\degree}$
+To convert for normal degrees to radiant multiply $\angle \theta$ by $\frac{\pi}{180\degree}$
 
 ### Equation & Graph
 ![![SAT/Math/Circle equation  .md]]
