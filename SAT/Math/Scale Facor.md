@@ -1,5 +1,6 @@
 ---
 sticker: emoji//1f310
+tags: sat, algebra, math
 ---
 # Formula
 $Scale Factor=\frac{Dimension of Original Figure}{Dimension of New Figure​}$
@@ -18,4 +19,4 @@ $Scale Factor=\frac{Dimension of Original Figure}{Dimension of New Figure
 > If you multiply by the same ratio both part , they stay equal.
 > Ex: $\frac{1}{2} = \frac{2}{4}$
 
-$\frac{2}{10x}$
+

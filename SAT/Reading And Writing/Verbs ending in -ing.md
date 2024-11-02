@@ -4,6 +4,7 @@ tags:
   - english
   - verb
   - standart_english
+sticker: emoji//1f35f
 ---
 # -ing Words
 They are verbs, but not strong enough to be alone
