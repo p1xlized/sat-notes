@@ -1,5 +1,6 @@
 ---
 sticker: emoji//1f636-200d-1f32b-fe0f
+tags: dart, classes, dev
 ---
 ### Abstract class
 An abstract [[Classes]] in Dart is a class that cannot be instantiated directly and serves as a blueprint for other classes. It can contain abstract methods (without implementation) that must be implemented by subclasses, ensuring a consistent interface across different types.

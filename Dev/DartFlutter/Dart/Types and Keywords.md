@@ -2,7 +2,6 @@
 sticker: emoji//1f511
 tags:
   - dev
-  - standart_english
   - basic_functionality
   - dart
 banner_y: 

@@ -1,5 +1,6 @@
 ---
 sticker: emoji//1f9d3
+tags: dart, dev, classes
 ---
 
 ### Inheritance
