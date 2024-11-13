@@ -55,7 +55,8 @@ Is it a positive or negative development? → opinion
 
 
 - **Why do you think this is happening?** → it's not that important because it's a statement of facts. All you do is notice the reality.
-	- **Is it a positive or negative development?** → You have to decide the opinion(just pick one)
+	
+- **Is it a positive or negative development?** → You have to decide the opinion(just pick one)
 
 ### Idea generation
 
