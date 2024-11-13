@@ -1,3 +1,9 @@
+---
+tags:
+  - ielts
+  - essay
+  - english
+---
 ### 3 times proofread
 Once at the end of each sentence → At the end of paragraph → at the end of essay
 

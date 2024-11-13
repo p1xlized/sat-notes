@@ -1,3 +1,9 @@
+---
+tags:
+  - essay
+  - ielts
+  - english
+---
 ### What is a conclusion?
 - Summarize our main ideas
 - Where we state our opinion, if asked

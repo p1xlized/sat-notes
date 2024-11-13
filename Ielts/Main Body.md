@@ -1,6 +1,9 @@
 ---
 sticker: lucide//flashlight
 color: var(--mk-color-teal)
+tags:
+  - ielts
+  - essay
 ---
 # What is a main body
 

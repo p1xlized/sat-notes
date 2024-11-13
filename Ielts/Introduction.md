@@ -1,5 +1,8 @@
 ---
 sticker: emoji//1f195
+tags:
+  - ielts
+  - essay
 ---
 # What is an Introduction
 - Tells the reader what to expect

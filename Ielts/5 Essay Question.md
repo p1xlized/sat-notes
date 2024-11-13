@@ -1,6 +1,9 @@
 ---
 sticker: emoji//2753
 color: var(--mk-color-yellow)
+tags:
+  - ielts
+  - essay
 ---
 # Opinion
 They ask you for your opinion

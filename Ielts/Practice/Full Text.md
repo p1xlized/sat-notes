@@ -1,6 +1,7 @@
 ---
 sticker: lucide//file-text
 color: var(--mk-color-teal)
+tags: ielts, essay, english, practice
 ---
 > [!question] 
 > Artificial intelligence will soon replace teachers in the classroom.

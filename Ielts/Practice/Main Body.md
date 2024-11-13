@@ -1,6 +1,7 @@
 ---
 sticker: lucide//file-text
 color: var(--mk-color-teal)
+tags: ielts, english, practice, essay
 ---
 > [!question] 
 > Artificial intelligence is now being applied to self-driving cars, thanks to advancements in machine learning and sensor technology. This is a positive development because it can help reduce accidents caused by human errors, such as fatigue or driving under the influence.
