@@ -10,7 +10,7 @@ tags: ielts, essay, english, practice
 ### Correction
 
 - [x] Does the sentence mean the same as the question?
-- [ ] Any vocabulary errors?
+- [x] Any vocabulary errors?   [completion:: 2024-11-15]
 - [x] Is the sentence grammatically correct?
 
 
