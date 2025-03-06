@@ -16,7 +16,7 @@ The fragments (like _"Playing outside"_) add extra information or describe a con
 - **Describing context**: "Waiting in line, she looked at her phone."
 
 ### As a verb
-hrases with . **helping verb** (or **auxiliary verb**) show an ongoing action, and are strong enough to be a standalone verb.
+phrases with . **helping verb** (or **auxiliary verb**) show an ongoing action, and are strong enough to be a standalone verb.
 
 - **Present Continuous**: "She is playing soccer."
 - **Past Continuous**: "He was waiting for the bus."

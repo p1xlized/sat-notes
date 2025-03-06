@@ -30,7 +30,7 @@ Use a comma before the independent clause. No comma is needed when the independe
 **Example 2**: She doesn’t have much time, although she loves to read.
 
 > [!bug] 
-> -A **comma splice** occurs when two independent clauses are linked by a comma without a conjunction. This is incorrect and should be avoided.
+> A **comma splice** occurs when two independent clauses are linked by a comma without a conjunction. This is incorrect and should be avoided.
 
 
 

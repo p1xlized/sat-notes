@@ -11,3 +11,11 @@ tags: math, sat, geometry
 
 ### 2D Surfaces
 
+
+| Geometric Figure                     | Perimeter                                        | Area                                                             |
+| ------------------------------------ | ------------------------------------------------ | ---------------------------------------------------------------- |
+| ![[Pasted image 20250303223726.png]] | $P = l + l + w + w$  <br> or <br> $P = 2(l + w)$ | $A = lw$                                                         |
+| ![[Pasted image 20250303223755.png]] | $P = b + b + c + c$  <br> or <br> $P = 2(b + c)$ | $A = bh$                                                         |
+| ![[Pasted image 20250303223807.png]] | $P = a + b + c$                                  | $A = \frac{bh}{2}$  <br> or <br> $A = \frac{1}{2} bh$            |
+| ![[Pasted image 20250303223824.png]] | $P = a + b + c + d$                              | $A = \frac{(a + b)h}{2}$ <br> or <br> $A = \frac{1}{2} (a + b)h$ |
+| ![[Pasted image 20250303223833.png]] | $C = \pi d$ <br> or <br> $C = 2\pi r$            | $A = \pi r^2$                                                    |
