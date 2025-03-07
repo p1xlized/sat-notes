@@ -31,6 +31,8 @@ $\tan(\theta)= \frac{opposite}{adjacent}$
 $\sin(x\degree) => cos(90-x\degree)$
 $\sin(\theta) = \cos(\beta)$
 $\cos(\theta) = \sin(\beta)$
+$\tan(\theta) =\frac{\sin(\theta)}{\cos(\theta)}$
+
 
 ---
 

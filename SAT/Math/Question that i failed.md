@@ -42,3 +42,26 @@ $x = \frac{-126d - 26}{120d}$
 
 so answer was A → $(\frac{-126d+26}{120d}​,0)$
 
+## Triangle Area and Trigonometry Problem
+## Given Information:
+- A right triangle with:
+  - One leg: **26**
+  - Angle: **33°**
+- Need to determine the area **A** and the constant **k** in the equation:
+  $A = k \tan(33^\circ$
+
+**Step 1:** Find the Other Leg (Height)
+Using the tangent function:
+$\tan(33^\circ) = \frac{YZ}{26}$
+Solving for **y**:
+$YZ = 26 \tan(33^\circ)$
+**Step 2:** Compute the Area
+The area of a triangle is:
+$A = \frac{1}{2} \times \text{base} \times \text{height}$
+
+Substituting the values:
+$A = \frac{1}{2} \times 26 \times (26 \tan 33^{\circ)}= A = \frac{26 \times 26 \times \tan(33^\circ)}{2}$
+Simplifying:
+$A = 338 \tan(33^{\circ)}\implies k=338$
+**Final Answer:**  
+The value of **k** is **338**.
