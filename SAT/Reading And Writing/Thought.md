@@ -1,6 +1,6 @@
 ---
 tags: sat, english, ponctuation, transition
-sticker: emoji//1f9f1
+sticker: emoji//1f930
 ---
 ### Conjunction (Contrast/Unexpected Result)
 - Equivalent to **"although" or "even though"**
