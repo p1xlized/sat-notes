@@ -65,3 +65,7 @@ Simplifying:
 $A = 338 \tan(33^{\circ)}\implies k=338$
 **Final Answer:**  
 The value of **k** is **338**.
+
+---
+
+![[Screenshot_20250307_004235_Samsung_Notes.jpg]]
