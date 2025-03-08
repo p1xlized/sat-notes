@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "45fa9c8e84e82fba",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc897ce7ed9d5bcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92dba26a1813dd59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-03-05.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-05"
+            }
+          },
+          {
+            "id": "fd35704b45fc73f6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "SAT/Reading And Writing/Untitled.canvas",
+                "viewState": {
+                  "x": -247.03116161325005,
+                  "y": 640.6138798323774,
+                  "zoom": -0.8647372081558822
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53740dbc33ff6ada",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb96c56d2ed17ffb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "755834f5e7b8c95d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0573ab08a1c91a57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fc862ab51284e9ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b2f51e58b0612072",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae4edebe300b0f7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f068c1f10be8a5e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc23317f58014ba6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SAT/Reading And Writing/Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "01e616c12fc284e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SAT/Reading And Writing/Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "9815836f404087a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a21bec4a8cc07424",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SAT/Reading And Writing/Untitled.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fd35704b45fc73f6",
+  "lastOpenFiles": [
+    "SAT/Math/Quandratic Function.md",
+    "SAT/Math/Quadratic formula.md",
+    "PDF/SAT-Math-Cheat-Sheet.pdf",
+    "SAT/Reading And Writing/Question Types/Question Types.md",
+    "SAT/Reading And Writing/Linking Words.md",
+    "SAT/Reading And Writing/Untitled.md",
+    "SAT/Reading And Writing/Untitled.canvas",
+    "SAT/Reading And Writing/Verbs ending in -ing.md",
+    "SAT/Reading And Writing/Verb Tenses.md",
+    "Attachments/Pasted image 20250307162029.png",
+    "SAT/Reading And Writing/Thought.md",
+    "SAT/Reading And Writing/Plurals vs Possessives.md",
+    "SAT/Reading And Writing/Verb Agreement.md",
+    "Ielts/Practice/Full Text.md",
+    "Ielts/Practice/Intro.md",
+    "Ielts/Practice/Main Body.md",
+    "Ielts/Practice/Practice.md",
+    "SAT/Reading And Writing/Reading And Writing.md",
+    "SAT/Math/Math.md",
+    "SAT/SAT.md",
+    "2025-03-05.md",
+    "Pasted image 20250303214826.png",
+    "Screenshot_20250307_004235_Samsung_Notes.jpg",
+    "Untitled Kanban.md"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"070dff0255e594a7","type":"group","x":-1144,"y":-420,"width":3184,"height":2046,"color":"5","label":"Verb Tenses"},
+		{"id":"6468733a630ab890","type":"text","text":"## agreement\n> [!EXEMPLE]\n    > 1. inproves (s)\n    > 2. improve (p)\n    > 3. was improving (s)\n    > 4. is improving (s)","x":-548,"y":-120,"width":508,"height":280,"color":"2"},
+		{"id":"253b18b2d0be6199","type":"text","text":"## to & -ing\n> [!EXEMPLE]\n    > 1. inproves (s)\n    > 2. to improve (n)\n    > 3. improving (n)\n    > 4. Having improved (n)","x":43,"y":-120,"width":508,"height":280,"color":"4"},
+		{"id":"50cfba3c9983f4a0","type":"text","text":"# 3 Verb Tense Rules","x":135,"y":-400,"width":325,"height":70,"color":"5"},
+		{"id":"221e932f1a8406aa","type":"text","text":"s - singular\np - plural\nn - non determined\nb - both","x":-548,"y":-386,"width":235,"height":113,"color":"1"},
+		{"id":"638eefadbf047882","type":"text","text":"## Predict the Rule","x":164,"y":300,"width":267,"height":50,"color":"5"},
+		{"id":"4248f459c0633f53","type":"text","text":"## 3 VS 1\nChoose the answer that is different. like they are all plural you chose the one singular. \n<span style=\"background:#ff4d4f\">CHANGE IF IF 100% SURE!</span>\n\n","x":-1124,"y":441,"width":508,"height":160,"color":"2"},
+		{"id":"b8178ce2d74aceaf","type":"text","text":"#twist The hide the subject from you","x":-45,"y":441,"width":250,"height":60,"color":"1"},
+		{"id":"6130fd30b0b92b40","type":"file","file":"SAT/Reading And Writing/Verb Tenses.md","x":1280,"y":350,"width":740,"height":1256,"color":"6"},
+		{"id":"6f479f6f173f8e65","type":"text","text":"# **\"To\" + Verb (Infinitives)**\nThey are verbs but act as **nouns, adjectives, or adverbs** in a sentence.\n\n### **As a fragment**  \nInfinitive phrases (like _\"To study hard\"_) add extra information or explain purpose.\n\n- **Showing purpose**: \"To get better grades, she studied every night.\"  \n- **Giving reasons**: \"He left early to catch the train.\"\n\n### **As a verb**  \nInfinitives follow certain verbs or adjectives but are not standalone verbs.\n\n- **After certain verbs**: \"She decided to study.\"  \n- **After adjectives**: \"It’s hard to learn German.\"\n","x":680,"y":501,"width":555,"height":588,"color":"4"},
+		{"id":"53f91d333451d7ab","type":"text","text":"## past/present/future\n> [!EXEMPLE]\n    > 1. inproves (s)\n    > 2. improved (b)\n    > 3. will improve (b)\n    > 4. has improved (b)","x":640,"y":-120,"width":508,"height":280,"color":"6"},
+		{"id":"a9d33bc1675b25ea","type":"text","text":"# Strategy","x":205,"y":200,"width":185,"height":70,"color":"5"},
+		{"id":"1e0dd783d278ef18","type":"text","text":"# Find the subject\nto double check find the subject and replace it by (it - if singular, they - plural)","x":-1124,"y":661,"width":508,"height":178,"color":"2"},
+		{"id":"3b87aac6087ed73a","type":"file","file":"Attachments/Pasted image 20250307162029.png","x":-1124,"y":1081,"width":524,"height":280,"color":"2"},
+		{"id":"6ddb50c2a43b9b3d","type":"file","file":"SAT/Reading And Writing/Verbs ending in -ing.md","x":-548,"y":601,"width":459,"height":679,"color":"4"},
+		{"id":"f27e7a55e447c8e7","type":"text","text":"| **Use Case**                  | **Infinitive (to + verb)**     | **Gerund (-ing form)**         |\n|--------------------------------|--------------------------------|--------------------------------|\n| **After certain verbs**        | _decide, hope, want, plan_     | _enjoy, avoid, suggest, finish_ |\n| **Purpose or intention**       | _I study **to improve**._      | ❌ Not used |\n| **After adjectives**           | _It's hard **to learn**._      | ❌ Not used |\n| **After prepositions**         | ❌ Not used                    | _She is good at **writing**._ |\n| **As subject/object**          | ❌ Not used                    | _Swimming is fun._ |\n| **Verbs with different meanings** | _He stopped **to rest**._      | _He stopped **resting**._ |\n","x":56,"y":616,"width":482,"height":446,"color":"4"}
+	],
+	"edges":[
+		{"id":"e59a09bd8cfe26d7","fromNode":"a9d33bc1675b25ea","fromSide":"bottom","toNode":"638eefadbf047882","toSide":"top"},
+		{"id":"69ac2472cd1c942c","fromNode":"638eefadbf047882","fromSide":"left","toNode":"4248f459c0633f53","toSide":"top","label":"If every choice is singular vs plural"},
+		{"id":"0a5e66d2acc5c86d","fromNode":"50cfba3c9983f4a0","fromSide":"bottom","toNode":"6468733a630ab890","toSide":"top"},
+		{"id":"d5dbaa6a5f264d65","fromNode":"50cfba3c9983f4a0","fromSide":"bottom","toNode":"253b18b2d0be6199","toSide":"top"},
+		{"id":"3ec6df4d627aac87","fromNode":"50cfba3c9983f4a0","fromSide":"bottom","toNode":"53f91d333451d7ab","toSide":"top"},
+		{"id":"fad2296598877f46","fromNode":"4248f459c0633f53","fromSide":"bottom","toNode":"1e0dd783d278ef18","toSide":"top"},
+		{"id":"3b35bc5a692489be","fromNode":"1e0dd783d278ef18","fromSide":"bottom","toNode":"3b87aac6087ed73a","toSide":"top","label":"Exemple"},
+		{"id":"8763c687ad469a1d","fromNode":"53f91d333451d7ab","fromSide":"bottom","toNode":"6130fd30b0b92b40","toSide":"top"},
+		{"id":"a6dc4ece2922c53e","fromNode":"638eefadbf047882","fromSide":"bottom","toNode":"f27e7a55e447c8e7","toSide":"top"},
+		{"id":"e3804c71cc0ba7bb","fromNode":"f27e7a55e447c8e7","fromSide":"left","toNode":"6ddb50c2a43b9b3d","toSide":"right","label":"-ing"},
+		{"id":"9b85a278494f4cd1","fromNode":"638eefadbf047882","fromSide":"bottom","toNode":"b8178ce2d74aceaf","toSide":"top"},
+		{"id":"4594181a533ce96a","fromNode":"f27e7a55e447c8e7","fromSide":"right","toNode":"6f479f6f173f8e65","toSide":"left","label":"to"}
+	]
+}
