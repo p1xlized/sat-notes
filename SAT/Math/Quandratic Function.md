@@ -9,9 +9,7 @@ aliases:
 - polynomial equations of degree two
 - $y = ax^2 + bx +c$ -> most used form
 
-
 ---
-
 ### Vertex
 - $f(x) = a(x-h)^2+k$ -> **h & k** (x,y) are the vertex 
 

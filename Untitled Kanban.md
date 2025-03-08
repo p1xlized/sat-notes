@@ -3,7 +3,6 @@
 kanban-plugin: board
 
 ---
-
 ## To-do
 
 
